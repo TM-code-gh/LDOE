@@ -5,6 +5,10 @@ Tout du code : LDOE val_niveau
 Déterminer la valeur d'un niveau à partir d'observations de données de tests.  
 
 
+
+
+
+
 # **!! WARNING !!**
 Données erronées pour le lvl 14 --> Données inutilisables.  
 Valeur de topo non connue (supposition topo = 5) --> Incertitude supplémentaire.  
