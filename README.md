@@ -1,7 +1,7 @@
 # LDOE - val_niveau
 Tout du code : LDOE val_niveau  
 
-## Reverse Engineering : But
+## Reverse Engineering :
 Déterminer la valeur d'un niveau à partir d'observations de données de tests.  
 
 
