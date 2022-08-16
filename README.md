@@ -5,7 +5,7 @@ Tout du code : LDOE val_niveau
 Déterminer la valeur d'un niveau à partir d'observations de données de tests.  
 
 
-![This is an image](/main/LDOE_donnees_observation.png)
+![This is an image](/LDOE_donnees_observation.png)
 
 
 # **!! WARNING !!**
